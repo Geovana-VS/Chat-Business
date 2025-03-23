@@ -68,7 +68,11 @@ python app.py
 ```
 ---
 ### Demonstração
-https://vimeo.com/1068660500?ts=0&share=copy
+
+
+
+https://github.com/user-attachments/assets/4dfb20d2-8534-4b80-8e22-e59e39b66c75
+
 
 ### Conclusão
 Seguindo esses passos, você conseguirá rodar o chatbot e interagir com ele através do terminal.
