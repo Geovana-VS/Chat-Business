@@ -1,5 +1,5 @@
 
-![Desenho da Cabeça de um Robô](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-xcvji&psig=AOvVaw1FZksEzlqOttmldQtLn-0a&ust=1742843957366000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiIhe71oIwDFQAAAAAdAAAAABAE)
+![Desenho da Cabeça de um Robô](robo.png)
 # Chatbot Especializado em Análise de Negócios
 
 ## 🎯 Objetivo do Chatbot
