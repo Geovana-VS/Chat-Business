@@ -42,40 +42,28 @@ Abra o terminal ou prompt de comando, vá até o diretório onde o arquivo `app.
 
 ```bash
 pip install -r requirements.txt
+
 Certifique-se de que existe um arquivo requirements.txt com as bibliotecas necessárias.
 
-🔑 Passo 2: Configurar a Chave de API do Groq
-Você precisa configurar a variável de ambiente GROQ_API_KEY com sua chave de API do Groq.
+### 🔑 Passo 2: Configurar a Chave de API do Groq
 
-No Windows (Prompt de Comando):
-cmd
-Copiar
-Editar
-set GROQ_API_KEY=sua_chave_de_api
-No Linux ou macOS (Terminal):
-bash
-Copiar
-Editar
-export GROQ_API_KEY=sua_chave_de_api
-Substitua sua_chave_de_api pela sua chave de API real.
+Você precisa configurar a variável de ambiente `GROQ_API_KEY` com sua chave de API do Groq.
+[Clique aqui para obter a sua chave ](https://console.groq.com/keys)
 
-▶️ Passo 3: Executar o Script
-Ainda no terminal, execute o script app.py com o seguinte comando:
+#### No Windows (Prompt de Comando):
 
-bash
-Copiar
-Editar
+```cmd
+export GROQ_API_KEY=<Coloque a sua chave API aqui>
+
+### ▶️ Passo 3: Executar o Script
+
+Ainda no terminal, execute o script `app.py` com o seguinte comando:
+
+```bash
 python app.py
-🧠 Estrutura do Código
-Uma visão geral do que o código faz:
 
-Configuração da API do Groq
+---
 
-Inicialização do histórico de mensagens
-
-Função para coletar mensagens e interagir com a IA
-
-Início da interação com o usuário via terminal
 
 ✅ Conclusão
 Seguindo esses passos, você conseguirá rodar o chatbot e interagir com ele através do terminal.
