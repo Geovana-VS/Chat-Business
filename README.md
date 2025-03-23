@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 Certifique-se de que existe um arquivo requirements.txt com as bibliotecas necessárias.
 
- Passo 2: Configurar a Chave de API do Groq
+### Passo 2: Configurar a Chave de API do Groq
 
 Você precisa configurar a variável de ambiente `GROQ_API_KEY` com sua chave de API do Groq.
 [Clique aqui para obter a sua chave ](https://console.groq.com/keys)
