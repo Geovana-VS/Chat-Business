@@ -1,5 +1,4 @@
 
-![Desenho da Cabeça de um Robô](robo.png)
 # Chatbot Especializado em Análise de Negócios
 
 ## 🎯 Objetivo do Chatbot
